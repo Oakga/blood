@@ -1,4 +1,1 @@
-Blood donation website
-
-
-https://oakga.github.io/testgit/
+Blood donation website: https://oakga.github.io/blood/
